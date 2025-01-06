@@ -1,0 +1,14 @@
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\bin\Debug\net8.0\SportsTeamManagement.exe
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\bin\Debug\net8.0\SportsTeamManagement.deps.json
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\bin\Debug\net8.0\SportsTeamManagement.runtimeconfig.json
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\bin\Debug\net8.0\SportsTeamManagement.dll
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\bin\Debug\net8.0\SportsTeamManagement.pdb
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.dll
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\refint\SportsTeamManagement.dll
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.pdb
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\SportsTeamManagement.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\csapps\SportsTeamManagement\obj\Debug\net8.0\ref\SportsTeamManagement.dll

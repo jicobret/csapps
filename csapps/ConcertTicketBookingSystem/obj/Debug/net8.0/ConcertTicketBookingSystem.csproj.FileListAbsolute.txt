@@ -1,0 +1,14 @@
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\bin\Debug\net8.0\ConcertTicketBookingSystem.exe
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\bin\Debug\net8.0\ConcertTicketBookingSystem.deps.json
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\bin\Debug\net8.0\ConcertTicketBookingSystem.runtimeconfig.json
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\bin\Debug\net8.0\ConcertTicketBookingSystem.dll
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\bin\Debug\net8.0\ConcertTicketBookingSystem.pdb
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.dll
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\refint\ConcertTicketBookingSystem.dll
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.pdb
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ConcertTicketBookingSystem.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\csapps\ConcertTicketBookingSystem\obj\Debug\net8.0\ref\ConcertTicketBookingSystem.dll
