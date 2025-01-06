@@ -71,7 +71,6 @@ class Program
     static void Main(string[] args)
     {
         BookingSystem bookingSystem = new BookingSystem();
-
         while(true){
             Console.Write("1 - Dodaj koncert, 2 - Wyswietl wszystkie koncerty, 3 - Kup bilet, 4 - Wygeneruj raport ze sprzedazy biletow\n");
             string? c = Console.ReadLine();
