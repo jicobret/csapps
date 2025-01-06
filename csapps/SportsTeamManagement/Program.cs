@@ -1,4 +1,4 @@
-﻿using System.Security.Cryptography;
+using System.Security.Cryptography;
 using Creator;
 
 class Program {
@@ -23,7 +23,7 @@ class Program {
                 case "2":
                     Console.Write("Kto zdobyl punkt? (Podaj imie zawodnika): ");
                     string? pl = Console.ReadLine();
-                    Team.Score(pl);
+                    Team.PlayerScore(pl);
                     break;
 
                 case "3":
@@ -41,7 +41,7 @@ class Program {
                 case "4":
                     Console.WriteLine($"Ilosc zagranych meczy: {Team.Games.Count}");
                     Console.WriteLine($"Ilosc wygranych meczy: {Team.Games.Where(game => game.Win).Count()}");
-                    Console.WriteLine($"Procent wygranych meczy druzyny {Team.Name}: {Math.Round(Team.Stats())}%");
+                    Console.WriteLine($"Procent wygranych meczy druzyny {Team.Name}: {Math.Round(Team.TeamScore())}%");
                     break;
 
                 case "5":
