@@ -35,15 +35,12 @@ class Team {
     public void AddPlayer(string name, string position) {
         PList.Add(new Player(name, position));
     }
-
-
-    public double Stats() {
+    public double TeamScore() {
         return Games.Count > 0 ? (double)Games.Where(game => game.Win).Count() / Games.Count * 100 : 0;
     }
-    public void Score(string name) {
+    public void PlayerScore(string name) {
         PList.First(player => player.Name == name).PScore();
     }
-
     //katastroficzna redundancja od tego momentu
     public void SearchPosition(string Name) {
         List<Player> filter = PList.Where(pl => pl.Position == Name).ToList();
@@ -64,4 +61,3 @@ class Team {
         }
     }
 }
-
