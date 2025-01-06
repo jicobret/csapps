@@ -16,7 +16,6 @@ abstract class Concert
 
     public abstract decimal GetTicketPrice();
 }
-
 class RegularConcert : Concert
 {
     public decimal TicketPrice { get; private set; }
@@ -32,7 +31,6 @@ class RegularConcert : Concert
         return TicketPrice;
     }
 }
-
 class VIPConcert : Concert
 {
     public decimal VIPPrice { get; private set; }
@@ -48,7 +46,6 @@ class VIPConcert : Concert
         return VIPPrice;
     }
 }
-
 class OnlineConcert : Concert
 {
     public string Platform { get; private set; }
@@ -66,7 +63,6 @@ class OnlineConcert : Concert
         return StreamingPrice;
     }
 }
-
 class PrivateConcert : Concert
 {
     public decimal PrivateBookingCost { get; private set; }
