@@ -1,0 +1,14 @@
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\bin\Debug\net8.0\BoardGameSimulator.exe
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\bin\Debug\net8.0\BoardGameSimulator.deps.json
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\bin\Debug\net8.0\BoardGameSimulator.runtimeconfig.json
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\bin\Debug\net8.0\BoardGameSimulator.dll
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\bin\Debug\net8.0\BoardGameSimulator.pdb
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.dll
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\refint\BoardGameSimulator.dll
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.pdb
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\BoardGameSimulator.genruntimeconfig.cache
+C:\Users\Komputer\Desktop\csapps\BoardGameSimulator\obj\Debug\net8.0\ref\BoardGameSimulator.dll
