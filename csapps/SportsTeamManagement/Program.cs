@@ -17,7 +17,7 @@ class Program {
                     string? plname = Console.ReadLine();
                     Console.Write("Podaj pozycje zawodnika: ");
                     string? position = Console.ReadLine();
-                    Team.AddPlayer(plname, position);
+                    Team.NewPlayer(plname, position);
                     break;
 
                 case "2":
@@ -29,18 +29,18 @@ class Program {
                 case "3":
                     Console.Write("Czy twoja druzyna wygrala gre? (T/N): ");
                     string? readWin = Console.ReadLine();
-                    bool Win;
+                    bool w;
                     if (readWin == "T") {
-                        Win = true;
+                        w = true;
                     } else {
-                        Win = false;
+                        w = false;
                     }
-                    Team.AddGame(Win);
+                    Team.NewGame(w);
                     break;
 
                 case "4":
                     Console.WriteLine($"Ilosc zagranych meczy: {Team.Games.Count}");
-                    Console.WriteLine($"Ilosc wygranych meczy: {Team.Games.Where(game => game.Win).Count()}");
+                    Console.WriteLine($"Ilosc wygranych meczy: {Team.Games.Where(game => game.w).Count()}");
                     Console.WriteLine($"Procent wygranych meczy druzyny {Team.Name}: {Math.Round(Team.TeamScore())}%");
                     break;
 
