@@ -16,7 +16,7 @@ class Player {
     }
 }
 record Game (
-    bool Win
+    bool w
 );
 
 class Team {
@@ -29,14 +29,14 @@ class Team {
         PList = new();
         Games = new();
     }    
-    public void AddGame(bool Win) {
-        Games.Add(new(Win));
+    public void NewGame(bool w) {
+        Games.Add(new(w));
     }
-    public void AddPlayer(string name, string position) {
+    public void NewPlayer(string name, string position) {
         PList.Add(new Player(name, position));
     }
     public double TeamScore() {
-        return Games.Count > 0 ? (double)Games.Where(game => game.Win).Count() / Games.Count * 100 : 0;
+        return Games.Count > 0 ? (double)Games.Where(game => game.w).Count() / Games.Count * 100 : 0;
     }
     public void PlayerScore(string name) {
         PList.First(player => player.Name == name).PScore();
