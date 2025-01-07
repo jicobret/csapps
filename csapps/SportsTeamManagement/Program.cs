@@ -5,8 +5,8 @@ class Program {
     public static void Main(string[] args) {
 
         Console.Write("Podaj nazwe druzyny: ");
-        string? name = Console.ReadLine();
-        Team Team = new(name);
+        string? tname = Console.ReadLine();
+        Team Team = new(tname);
 
         while (true) {
             Console.Write("1 - Dodaj zawodnika, 2 - Dodaj punkt, 3 - Dodaj gre, 4 - Wyswietl historie druzyny, 5 - Wyszukaj zawodnika, 6 - Wyswietl punkty zawodnika): ");
@@ -14,10 +14,10 @@ class Program {
             switch (c) {
                 case "1":
                     Console.Write("Podaj imie zawodnika: ");
-                    string? plname = Console.ReadLine();
+                    string? pname = Console.ReadLine();
                     Console.Write("Podaj pozycje zawodnika: ");
-                    string? position = Console.ReadLine();
-                    Team.NewPlayer(plname, position);
+                    string? pposition = Console.ReadLine();
+                    Team.NewPlayer(pname, pposition);
                     break;
 
                 case "2":
